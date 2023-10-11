@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design\result.jpeg) - Here you can see the desktop final version of the project.
-![](./design\desktop.active.jpeg) - Desktop with button active.
-![](./design\mobile.jpeg) - Here you can see the mobile version.
+![](./design/result.jpeg) - Here you can see the desktop final version of the project.
+![](./design/desktop.active.jpeg) - Desktop with button active.
+![](./design/mobile.jpeg) - Here you can see the mobile version.
 
 
 
