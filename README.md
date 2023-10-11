@@ -33,9 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: (https://github.com/Carolulguim/Results.summary.component)
 ## My process
 
 First, I create the basic structure using HTML. Then, I proceed to classify each item that needs customization to achieve the required aesthetics in the challenge. Once the classification part is completed, I start building the designs in CSS to attain the specified style. I only move on to the next item once I've achieved the expected result. Finally, I begin configuring the media queries to make everything responsive for different screen sizes.
@@ -55,6 +53,4 @@ Mastering the intricacies of media queries was a challenge I faced. This experie
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
