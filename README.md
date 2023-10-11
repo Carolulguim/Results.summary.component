@@ -53,4 +53,4 @@ Mastering the intricacies of media queries was a challenge I faced. This experie
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Carolulguim)
