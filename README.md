@@ -34,6 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Carolulguim/Results.summary.component)
+- Solution URL to html view: (https://htmlpreview.github.io/?https://github.com/Carolulguim/Results.summary.component/blob/main/index.html)
 ## My process
 
 First, I create the basic structure using HTML. Then, I proceed to classify each item that needs customization to achieve the required aesthetics in the challenge. Once the classification part is completed, I start building the designs in CSS to attain the specified style. I only move on to the next item once I've achieved the expected result. Finally, I begin configuring the media queries to make everything responsive for different screen sizes.
